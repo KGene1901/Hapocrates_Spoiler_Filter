@@ -1,0 +1,34 @@
+This article is about Bernoulli's principle and Bernoulli's equation in fluid dynamics. For Bernoulli's theorem in probability, see law of large numbers. For an unrelated topic in ordinary differential equations, see Bernoulli differential equation.
+
+A flow of air through a venturi meter. The kinetic energy increases at the expense of the fluid pressure, as shown by the difference in height of the two columns of water.
+File:Venturi Tube en.webm
+Video of a venturi meter used in a lab experiment
+Continuum mechanics
+Laws[show]
+Solid mechanics[show]
+Fluid mechanics[hide]
+Fluids
+Statics · Dynamics
+Archimedes' principle · Bernoulli's principle
+Navier–Stokes equations
+Poiseuille equation · Pascal's law
+Viscosity
+(Newtonian · non-Newtonian)
+Buoyancy · Mixing · Pressure
+Liquids
+Surface tensionCapillary action
+Gases
+AtmosphereBoyle's lawCharles's lawGay-Lussac's lawCombined gas law
+Plasma
+Rheology[show]
+Scientists[show]
+vte
+In fluid dynamics, Bernoulli's principle states that an increase in the speed of a fluid occurs simultaneously with a decrease in static pressure or a decrease in the fluid's potential energy.[1](Ch.3)[2](§ 3.5) The principle is named after Daniel Bernoulli who published it in his book Hydrodynamica in 1738.[3] Although Bernoulli deduced that pressure decreases when the flow speed increases, it was Leonhard Euler who derived Bernoulli's equation in its usual form in 1752.[4][5] The principle is only applicable for isentropic flows: when the effects of irreversible processes (like turbulence) and non-adiabatic processes (e.g. heat radiation) are small and can be neglected.
+
+Bernoulli's principle can be applied to various types of fluid flow, resulting in various forms of Bernoulli's equation; there are different forms of Bernoulli's equation for different types of flow. The simple form of Bernoulli's equation is valid for incompressible flows (e.g. most liquid flows and gases moving at low Mach number). More advanced forms may be applied to compressible flows at higher Mach numbers (see the derivations of the Bernoulli equation).
+
+Bernoulli's principle can be derived from the principle of conservation of energy. This states that, in a steady flow, the sum of all forms of energy in a fluid along a streamline is the same at all points on that streamline. This requires that the sum of kinetic energy, potential energy and internal energy remains constant.[2](§ 3.5) Thus an increase in the speed of the fluid – implying an increase in its kinetic energy (dynamic pressure) – occurs with a simultaneous decrease in (the sum of) its potential energy (including the static pressure) and internal energy. If the fluid is flowing out of a reservoir, the sum of all forms of energy is the same on all streamlines because in a reservoir the energy per unit volume (the sum of pressure and gravitational potential ρ g h) is the same everywhere.[6](Example 3.5)
+
+Bernoulli's principle can also be derived directly from Isaac Newton's Second Law of Motion. If a small volume of fluid is flowing horizontally from a region of high pressure to a region of low pressure, then there is more pressure behind than in front. This gives a net force on the volume, accelerating it along the streamline.[a][b][c]
+
+Fluid particles are subject only to pressure and their own weight. If a fluid is flowing horizontally and along a section of a streamline, where the speed increases it can only be because the fluid on that section has moved from a region of higher pressure to a region of lower pressure; and if its speed decreases, it can only be because it has moved from a region of lower pressure to a region of higher pressure. Consequently, within a fluid flowing horizontally, the highest speed occurs where the pressure is lowest, and the lowest speed occurs where the pressure is highest.

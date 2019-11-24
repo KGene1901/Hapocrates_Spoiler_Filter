@@ -1,0 +1,16 @@
+Despite the seemingly restrictive
+subtitle of this book, Concrete Mathematics: A Foundation for Computer
+Science, is first and foremost a most
+approachable book on mathematics:
+mathematics pure and simple, mathematics theoretical and applied, mathematics combinatorial and algorithmic,
+mathematics discrete and continuous.
+It is also the kind of book on mathematics many physicists will enjoy reading
+and be rewarded by the experience.
+Concrete Mathematics is an enlightening, serious college-level textbook treating several topics in detail, by
+way of lucid, well-structured exposition, providing further guidance in the
+form of extensive exercises (complete
+with answers) and an occasional research problem. The two senior coauthors (Graham and Knuth) are
+mathematicians of international renown and respected scholars widely
+known to the general public and the
+computer science community through
+their earlier popular works.

@@ -1,0 +1,25 @@
+Graphical user interfaces (GUI) are often touted as
+‘intuitive’ and ‘user-friendly’, yet many new users are
+anxiety-ridden. From a constructivist point of view,
+this paradox is easily resolved. An icon is just a
+representation; it is useful only to the extent that the
+user -can ‘construct a mental model of object being
+represented.
+Consider the icon for a ‘running man’. This represents
+the action that ‘iauses the computer to perform the
+machine instructions that are obtained by compiling
+the source code’. Jargon calls this ‘running a program’.
+The icon is thus two steps removed from the action:
+first, the icon must be deciphered as representing the
+word ‘,‘running’ rather than ‘chasing’ or ‘racing’, and
+then this word must be related to a mental model of
+the computer.
+Icons are intuitive to the extent that the analogy between the object shown and the object represented is
+perfect. But as Glynn shows [6], analogies are rarely,
+if ever, perfect, so one ‘must not lose patience with a
+novice who has yet to construct an efficient model of
+the underlying machine.
+WYSIWYG (What You See Is What You Get) is
+another concept’ that could benefit from some constructivist analysis. Opponents of WYSIWYG often
+paraphrase, it sarcastically as ‘what you see is all you
+get’, but this misses the point.,

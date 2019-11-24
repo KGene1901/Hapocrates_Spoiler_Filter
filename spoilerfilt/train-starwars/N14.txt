@@ -1,0 +1,13 @@
+There are two important questions on reconstructing the production tree: why do we
+need it; and how do we do it.
+The requirement to recover the production tree is not natural. After all, a grammar
+is a condensed description of a set of strings, i.e., a language, and our input string
+either belongs or does not belong to that language; no internal structure or production
+path is involved. If we adhere to this formal view, the only meaningful question we
+can ask is if a given string can be recognized according to a grammar; any question
+as to how would be a sign of senseless, even morbid curiosity. In practice, however,
+grammars have semantics attached to them: specific semantics is attached to specific
+rules, and in order to determine the semantics of a string we need to find out which
+rules were involved in its production and how. In short, recognition is not enough,
+and we need to recover the production tree to get the full benefit of the syntactic
+approach.

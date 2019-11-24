@@ -1,0 +1,20 @@
+By these definitions, computing
+qualifies as an exact science. It
+studies information processes,
+which occur naturally in the physical world; computer scientists work
+with an accepted, systematized
+body of knowledge; much computer science is applied; and computer science is used for prediction
+and verification.
+The objection that computing
+is not a science because it studies
+man-made objects (technologies)
+is a red herring. Computer science studies information
+processes both artificial and natural. It helps other fields study
+theirs too. Physicists explain particle behavior with quantum
+information processes—some of
+which, like entanglement, are
+quite strange—and verify their
+theories with computer simulation experiments. Bioinformaticians explain DNA as encoded
+biological information and study
+how transcription enzymes read
+and act on it; computer models

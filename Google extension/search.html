@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<link rel="stylesheet" href="style1.css">
+</head>
+<body>
+<div class="b" >
+<input type="search" id="myInput" onsearch="myFunction()">
+<!--form action="https://www.wikipedia.org/"-->
+<button type="submit">Click me</button>
+</form>
+<script>
+function myFunction() {
+    var x = document.getElementById("myInput");
+    document.getElementById("demo").innerHTML = "You wish to filter:" + x.value;
+
+}
+</script>
+<p id="demo"></p>
+<!--button onclick="myFunction()">Filter Away!</button-->
+</div>
+</body>
+</html>
